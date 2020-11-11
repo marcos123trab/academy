@@ -1,0 +1,8 @@
+log_sucessor,integração falhou,01/10/2020 13:25,mateus
+log_error,integração sucesso,01/09/2020 13:25,lucas
+log_error,integração falhou,01/02/2020 13:25,josue
+log_error,integração falhou,01/12/2020 13:25,marcos
+log_sucesso,integração iniciada,01/05/2020 13:25,mario
+,,,
+,,,
+log_error,integração falhou,01/12/2020 13:25,marcos
